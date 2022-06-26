@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SameerKumar007
 - 👀 I ❤️ Open Source Applications
-- 🌱 I’m currently learning HTML,C++
+- 🌱 I’m currently learning HTML,Java
 
 <!---
 SameerKumar007/SameerKumar007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
